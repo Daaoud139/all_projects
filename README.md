@@ -13,4 +13,4 @@ This repository contains all my Python projects, including:
 ## How to Run a Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/projects.git
+   git clone https://github.com/Daaoud139/projects.git
